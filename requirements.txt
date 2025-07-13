@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+python_version >= 3.12
+scikit-learn
